@@ -1,0 +1,25 @@
+.navigation_buttons {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+.back_button {
+  color: #677487;
+  font-size: 16px;
+  text-align: center;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.next_button {
+  border-radius: 8px;
+  background: #c3edff;
+  padding: 14px 40px;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 8px;
+  text-decoration: none;
+  color: #1c2635;
+  font-weight: 500;
+}
